@@ -18,9 +18,10 @@ This program provides solutions to anagrams. Solutions come from a list of words
 ## Install
 
 ```shell
-$ cd ~/place-where-you-put-things # Whatever directory you want
-$ git clone # TODO clone url here
-$ cd anagram-solver/solvers
+$ git clone https://github.com/patrickleweryharris/anagram-solver.git
+```
+```shell
+$ cd anagram-solver
 $ chmod +x anagram_solver.py # Permission must be granted for the script to run
 ```
 
@@ -28,7 +29,7 @@ $ chmod +x anagram_solver.py # Permission must be granted for the script to run
 The solver used must be in the same directory as the **words** file
 
 ```shell
-$ cd ~/place-where-you-put-things/anagram-solver/solvers # Path to the solvers file
+$ cd ~/place-where-you-put-this/anagram-solver
 $ ./anagram_solver.py
 Type an anagram: # Your anagram here!
 Solutions:
