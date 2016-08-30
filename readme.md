@@ -1,6 +1,6 @@
 # anagram-solver
 
-![banner](anagram.se/wp-content/themes/anagramproduktion.se/img/logo.png)
+![banner](http://anagram.se/wp-content/themes/anagramproduktion.se/img/logo.png)
 
 ![python](https://img.shields.io/badge/python-3.5-blue.svg?style=flat-square) [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/patrickleweryharris/anagram-solver/blob/master/LICENSE) [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
