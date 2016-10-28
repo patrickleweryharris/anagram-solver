@@ -34,3 +34,4 @@ __pycache__/
 anagram_solver.egg-info/
 dist/
 *.pyc
+
