@@ -1,8 +1,9 @@
 #!/usr/local/bin/python3.5
 import itertools
+import sys
 from .stuff import word_set
 
-__version__ = "1.0.7"
+__version__ = "1.1.0"
 
 
 def find_possible(lst):
@@ -48,8 +49,8 @@ def main():
     """
     Main function to run the program
     """
-    anagram = input('Type an anagram: ')
     anagram_lst = []
+    anagram = sys.argv[1]
     for char in anagram:
         anagram_lst.append(char)
 
