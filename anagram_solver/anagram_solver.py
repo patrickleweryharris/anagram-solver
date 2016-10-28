@@ -1,5 +1,8 @@
 #!/usr/local/bin/python3.5
 import itertools
+from .stuff import word_set
+
+__version__ = "1.0.7"
 
 
 def find_possible(lst):
@@ -41,10 +44,10 @@ def return_words(lst, word_set):
     return returned_list
 
 
-if __name__ == '__main__':
-    with open("words", "r", encoding='UTF-8') as words:
-        word_set = set(words.read().split())
-
+def main():
+    """
+    Main function to run the program
+    """
     anagram = input('Type an anagram: ')
     anagram_lst = []
     for char in anagram:

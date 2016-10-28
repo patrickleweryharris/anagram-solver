@@ -30,3 +30,7 @@ ehthumbs.db
 Thumbs.db
 *.xml
 .idea
+__pycache__/
+anagram_solver.egg-info/
+dist/
+*.pyc
