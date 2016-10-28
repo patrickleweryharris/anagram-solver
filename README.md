@@ -18,19 +18,12 @@ This program provides solutions to anagrams. Solutions come from a list of words
 ## Install
 
 ```shell
-$ git clone https://github.com/patrickleweryharris/anagram-solver.git
+$ pip install anagram-solver
 ```
-```shell
-$ cd anagram-solver
-$ chmod +x anagram_solver.py # Permission must be granted for the script to run
-```
-
 ## Usage
-The solver used must be in the same directory as the **words** file
 
 ```shell
-$ cd ~/place-where-you-put-this/anagram-solver
-$ ./anagram_solver.py
+$ anagram_solver
 Type an anagram: # Your anagram here!
 Solutions:
 # Solutions here!
