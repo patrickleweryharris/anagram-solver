@@ -1,7 +1,4 @@
 # anagram-solver
-
-![banner](http://anagram.se/wp-content/themes/anagramproduktion.se/img/logo.png)
-
 ![python](https://img.shields.io/badge/python-3-blue.svg?style=flat-square)
 [![pypi](https://img.shields.io/badge/pypi-v1.1.0-blue.svg?style=flat-square)](https://pypi.python.org/pypi/anagram-solver) [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/patrickleweryharris/anagram-solver/blob/master/LICENSE) [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
